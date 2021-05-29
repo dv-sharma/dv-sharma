@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dv-sharma
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning Java ,Angular TS, React JS
-- 💞️ I’m looking to collaborate on finding a development job
+- 👀 I’m interested in Devops culture.
+- 🌱 I’m currently learning Java ,Angular TS, React JS, Devops Methodologies & Tools.
+- 💞️ I’m looking to collaborate on finding a software/devops engineer job.
 - 📫 How to reach me divyam.sharma3@gmail.com
 
 <!---
