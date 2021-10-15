@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dv-sharma
 - 👀 I’m interested in Devops culture.
-- 🌱 I’m currently learning Java ,Angular TS, React JS, Devops Methodologies & Tools.
+- 🌱 I’m currently learning Devops Methodologies & Tools and have been trained on Java ,Angular TS.
 - 💞️ I’m looking to collaborate on finding a software/devops engineer job.
 - 📫 How to reach me divyam.sharma3@gmail.com
 
