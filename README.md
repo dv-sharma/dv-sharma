@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dv-sharma
 - 👀 I’m interested in Devops/SRE culture.
 - 🌱 I’m currently learning Devops Methodologies & Tools working in Digital Operations/SRE team.
-- 💞️ I’m looking to collaborate on finding a DevOps/SRE engineer jobs.
+- 💞️ I’m looking to collaborate on finding  DevOps/SRE/Digital Operations engineer jobs.
 - 🎁 I love content creation and running a free DevOps & Cloud course which is pinned to my Twitter profile.
 - 📫 How to reach me :
     -Mail: divyam.sharma3@gmail.com
