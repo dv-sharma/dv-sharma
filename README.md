@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @dv-sharma
 - 👀 I’m interested in Devops/SRE culture.
-- 🌱 I’m currently learning Devops Methodologies & Tools working in Digital Operations/SRE team.
-- 💞️ I’m looking to collaborate on finding  DevOps/SRE/Digital Operations engineer jobs.
+- 🌱 I’m currently pursuing my Masters in Management Information Systems from the University at Buffalo, New York and grauduating in May 2024.
+- 💞️ I’m searching for  DevOps/SRE/Cloud Engineer jobs.
 - 🎁 I love content creation and running a free DevOps & Cloud course which is pinned to my Twitter profile.
 - 📫 How to reach me :
-    -Mail: divyam.sharma3@gmail.com
+    -Mail: divyamsha05@gmail.com   ,
+          divyam.sharma3@gmail.com
     -Linkedin: https://www.linkedin.com/in/divyam-sharma0501/
     -Twitter: https://twitter.com/DVerse05
-    -Mobile: +91-7087609550
+    -Mobile: +17169109595
 
 <!---
 dv-sharma/dv-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
