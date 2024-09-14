@@ -16,16 +16,24 @@
 
 <br/>
 <p align="left">
-  <a href="https://sakalyamitra.me/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dv-sharma&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dv-sharma&theme=gruvbox&hide_border=true" />
-  </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dv-sharma&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" align="center">
-</p>
+#<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=dv-sharma&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" #align="center">
+#</p>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-sharma&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
 
+<td>
+
+### :writing_hand: Recent article:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</td>
+</tr>
+</table>
 
 # Experience
 
