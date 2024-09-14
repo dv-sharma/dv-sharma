@@ -8,8 +8,17 @@
 <a href="https://www.linkedin.com/in/divyam-sharma0501/"><img src="https://miro.medium.com/v2/resize:fit:1400/1*7b9QTCP42NrJQDKsSL958Q.gif" align="right" height="300"></a>
 
 
-# About myself
+# Hi there 👋, I'm Divyam Sharma!
+🚀 Site Reliability Engineer (SRE) | DevOps Enthusiast
+💻 Passionate about Systems reliability, Observability, and Operational Excellence
+📍 Based in New York, USA 🇺🇸
 
+With 3+ years of experience in SRE, DevOps, and Cloud Engineering, I specialize in building reliable, scalable, and efficient systems. From automating deployments with CI/CD pipelines to enhancing observability using modern monitoring tools, I aim to make systems faster, safer, and more resilient.
+
+In my free time, I post relatable content on SRE culture and DevOps practices via Medium and Hashnode 📝.
+
+🚨 Currently looking for exciting roles in SRE, DevOps, or Platform Engineering!
+💼 Let’s connect and chat about how I can bring value to your team.
 
 
 # My Stats
@@ -39,36 +48,13 @@
 </table>
 
 # Experience
-
-
-
-# Positions of Responsibility
-
-
 # Projects
-
-
 # Tech Stack
-
-
-
-
-
 # Licences and Certifications
-
-
 # Skills
-
-
-
 # Achievements
-
-  
-# Languages
-- <strong>Full professional proficiency:</strong> English,Punjabi,Hindi
-
-# Social Links
-
+# Communities
+# Connect with me 
 <a href="https://www.linkedin.com/in/divyam-sharma0501/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 
 
