@@ -1,14 +1,65 @@
-- 👋 Hi, I’m @dv-sharma
-- 👀 I’m interested in Devops/SRE culture.
-- 🌱 I’m currently pursuing my Masters in Management Information Systems from the University at Buffalo, New York and grauduating in May 2024.
-- 💞️ I’m searching for  DevOps/SRE/Cloud Engineer jobs.
-- 🎁 I love content creation and running a free DevOps & Cloud course which is pinned to my Twitter profile.
-- 📫 How to reach me :
-    -Mail: divyamsha05@gmail.com   ,
-          divyam.sharma3@gmail.com
-    -Linkedin: https://www.linkedin.com/in/divyam-sharma0501/
-    -Twitter: https://twitter.com/DVerse05
-    -Mobile: +17169109595
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+![gitartwork](gitartwork.svg)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dv-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="dv-sharma" /> </p>
+
+<a href="https://www.linkedin.com/in/divyam-sharma0501/"><img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="right" height="300"></a>
+
+
+# About myself
+
+
+
+# My Stats
+
+<br/>
+<p align="left">
+  <a href="https://sakalyamitra.me/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dv-sharma&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dv-sharma&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dv-sharma&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" align="center">
+</p>
+
+
+# Experience
+
+
+
+# Positions of Responsibility
+
+
+# Projects
+
+
+# Tech Stack
+
+
+
+
+
+# Licences and Certifications
+
+
+# Skills
+
+
+
+# Achievements
+
+  
+# Languages
+- <strong>Full professional proficiency:</strong> English,Punjabi,Hindi
+
+# Social Links
+
+<a href="https://www.linkedin.com/in/divyam-sharma0501/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+
 
 <!---
 dv-sharma/dv-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
