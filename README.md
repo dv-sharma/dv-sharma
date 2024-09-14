@@ -26,7 +26,7 @@
 
 <td>
 
-### :writing_hand: Recent article:
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </td>
