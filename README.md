@@ -20,8 +20,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dv-sharma&theme=gruvbox&hide_border=true" />
 </p>
 
-#<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=dv-sharma&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" #align="center">
-#</p>
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-sharma&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
