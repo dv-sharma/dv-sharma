@@ -1,0 +1,17 @@
+name: "📚 Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
+
+jobs:
+  update_blogs:
+    name: "Hashnode Latest Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+         # Replace this URL with your rss feed URL/s
+         feed_list: "https://medium.com/feed/@divyam.sharma3"
