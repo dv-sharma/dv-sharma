@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dv-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="dv-sharma" /> </p>
 
-<a href="https://www.linkedin.com/in/divyam-sharma0501/"><img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="right" height="300"></a>
+<a href="https://miro.medium.com/v2/resize:fit:1400/1*7b9QTCP42NrJQDKsSL958Q.gif" align="right" height="300"></a>
 
 
 # About myself
