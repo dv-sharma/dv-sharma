@@ -44,11 +44,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://medium.com/@divyam.sharma3/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-a3e39ca77916?source=rss-a80def30090d------2)
 - [GitOps on AWS EKS: Building a CI/CD Pipeline with Jenkins &amp; ArgoCD](https://medium.com/@divyam.sharma3/gitops-on-aws-eks-building-a-ci-cd-pipeline-with-jenkins-argocd-6965892b6da0?source=rss-a80def30090d------2)
 - [Centralized Logging for Microservices on EKS Cluster with the EFK Stack](https://medium.com/@divyam.sharma3/centralized-logging-for-microservices-on-eks-cluster-with-the-efk-stack-3d87f9d32f1f?source=rss-a80def30090d------2)
 - [Querying AWS MySQL RDS Instances Using Python&lpar;Boto3&rpar;](https://medium.com/@divyam.sharma3/querying-aws-mysql-rds-instances-using-python-boto3-an-automated-approach-5f71dec17984?source=rss-a80def30090d------2)
 - [What is Virtualization ?](https://medium.com/@divyam.sharma3/what-is-virtualization-9ac755e8c5c8?source=rss-a80def30090d------2)
-- [Learn the basics of Operating systems for Devops](https://medium.com/@divyam.sharma3/learn-the-basics-of-operating-systems-for-devops-3b078ad3a0ba?source=rss-a80def30090d------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
