@@ -44,11 +44,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI-Driven Log Analysis and Incident Alerting System on AWS](https://medium.com/@divyam.sharma3/how-i-built-an-ai-driven-log-analysis-and-incident-alerting-system-on-aws-7cea7ec29e5d?source=rss-a80def30090d------2)
 - [Augmenting Observability with AI Using Amazon Bedrock](https://awstip.com/augmenting-observability-with-ai-using-amazon-bedrock-f0215e5f377d?source=rss-a80def30090d------2)
 - [Optimize Your Statistical Data Analysis Workflows with AWS S3 + RStudio Server &lpar;Open Source&rpar;…](https://awstip.com/optimize-your-statistical-data-analysis-workflows-with-aws-s3-rstudio-integration-c2b815e1e44c?source=rss-a80def30090d------2)
 - [Deploying a Microservices Stock Trading Application on AWS with Terraform, Kubernetes &amp; Helm](https://medium.com/@divyam.sharma3/deploying-a-microservices-stock-trading-application-on-aws-with-terraform-kubernetes-helm-a3e39ca77916?source=rss-a80def30090d------2)
 - [GitOps on AWS EKS: Building a CI/CD Pipeline with Jenkins &amp; ArgoCD](https://medium.com/@divyam.sharma3/gitops-on-aws-eks-building-a-ci-cd-pipeline-with-jenkins-argocd-6965892b6da0?source=rss-a80def30090d------2)
-- [Centralized Logging for Microservices on EKS Cluster with the EFK Stack](https://medium.com/@divyam.sharma3/centralized-logging-for-microservices-on-eks-cluster-with-the-efk-stack-3d87f9d32f1f?source=rss-a80def30090d------2)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
