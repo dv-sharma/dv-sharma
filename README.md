@@ -44,7 +44,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Agent That Wouldn’t Stay in Its Sandbox: The OpenAI-Hugging Face Incident](https://infosecwriteups.com/the-ai-agent-that-wouldnt-stay-in-its-sandbox-5bb10b2a3e61?source=rss-a80def30090d------2)
+- [The AI Agent That Wouldn’t Stay in Its Sandbox: The OpenAI-Hugging Face Incident](https://medium.com/@divyam.sharma3/the-ai-agent-that-wouldnt-stay-in-its-sandbox-5bb10b2a3e61?source=rss-a80def30090d------2)
 - [How I Built an AI-Driven Log Analysis and Incident Alerting System on AWS](https://medium.com/@divyam.sharma3/how-i-built-an-ai-driven-log-analysis-and-incident-alerting-system-on-aws-7cea7ec29e5d?source=rss-a80def30090d------2)
 - [Augmenting Observability with AI Using Amazon Bedrock](https://awstip.com/augmenting-observability-with-ai-using-amazon-bedrock-f0215e5f377d?source=rss-a80def30090d------2)
 - [Optimize Your Statistical Data Analysis Workflows with AWS S3 + RStudio Server &lpar;Open Source&rpar;…](https://awstip.com/optimize-your-statistical-data-analysis-workflows-with-aws-s3-rstudio-integration-c2b815e1e44c?source=rss-a80def30090d------2)
